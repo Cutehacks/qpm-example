@@ -1,0 +1,8 @@
+
+<RCC>
+    <qresource prefix="io/qpm/example">
+        <file>qmldir</file>
+        <file>HelloQpm.qml</file>
+        <file>helloqpm.js</file>
+    </qresource>
+</RCC>

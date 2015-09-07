@@ -1,0 +1,4 @@
+
+module io.qpm.example
+HelloQpm 1.0 HelloQpm.qml
+HelloFunctions 1.0 helloqpm.js

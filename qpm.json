@@ -1,0 +1,16 @@
+{
+  "name": "io.qpm.example",
+  "author": {
+    "name": "Jason Barron",
+    "email": "jason@cutehacks.com"
+  },
+  "repository": {
+    "type": "GITHUB",
+    "url": "Cutehacks/qpm-example"
+  },
+  "version": {
+    "label": "0.0.1",
+    "revision": "v0.0.1"
+  },
+  "license": "MIT"
+}
