@@ -1,6 +1,8 @@
 #ifndef QPM_H
 #define QPM_H
 
+#ifdef USE_QPM_NS
+
 #define _GET_OVERRIDE(_1, _2, _3, _4, NAME, ...) NAME
 
 #define _QPM_BEGIN_NAMESPACE_1(a) \
@@ -28,5 +30,11 @@
     _QPM_END_NAMESPACE_3, \
     _QPM_END_NAMESPACE_2, \
     _QPM_END_NAMESPACE_1)
+
+#else
+#define QPM_BEGIN_NAMESPACE(...)
+#define QPM_END_NAMESPACE(...)
+#endif // USE_QPM_NS
+
 
 #endif // QPM_H

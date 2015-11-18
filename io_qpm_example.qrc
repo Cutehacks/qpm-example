@@ -1,6 +1,6 @@
 
 <RCC>
-    <qresource prefix="io/qpm/example">
+    <qresource prefix="Io/Qpm/example">
         <file>qmldir</file>
         <file>HelloQpm.qml</file>
         <file>helloqpm.js</file>

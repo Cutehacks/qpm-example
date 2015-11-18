@@ -1,5 +1,6 @@
 {
   "name": "io.qpm.example",
+  "description": "An example showing what is currently possible with a qpm package"
   "author": {
     "name": "Jason Barron",
     "email": "jason@cutehacks.com"
@@ -9,8 +10,7 @@
     "url": "https://github.com/Cutehacks/qpm-example.git"
   },
   "version": {
-    "label": "0.0.1",
-    "revision": "v0.0.1"
+    "label": "0.0.2",
   },
   "license": "MIT"
 }
